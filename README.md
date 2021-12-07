@@ -7,7 +7,8 @@ This is a solutions repo for [frontend mentor](https://www.frontendmentor.io/) c
 
 | Project Name and Live Link                                   | Repo Link                                                    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
-<!-- | 1. [Single price grid component](https://zzl-frontendmentor-challenges.now.sh/single-price-grid-component-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/single-price-grid-component-master) |
+| 1. [Masonry Grid Layout]() | [repo link](https://github.com/dongnguyenvn/front-end-challenges/tree/main/masonry-grid-layout) |
+<!--
 | 2. [Four cards feature section](https://zzl-frontendmentor-challenges.now.sh/four-card-feature-section-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/four-card-feature-section-master) |
 | 3. [Base apparel coming soon](https://zzl-frontendmentor-challenges.now.sh/base-apparel-coming-soon-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/base-apparel-coming-soon-master) |
 | 4. [Fylo data storage component](https://zzl-frontendmentor-challenges.now.sh/fylo-data-storage-component-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/fylo-data-storage-component-master) |
