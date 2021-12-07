@@ -1,230 +1,57 @@
-<div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-<h3 align="center">project_title</h3>
-
-  <p align="center">
-    project_description
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
-  </p>
-</div>
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `project_title`, `project_description`
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-* [Angular](https://angular.io/)
-* [Svelte](https://svelte.dev/)
-* [Laravel](https://laravel.com)
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
-
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [] Feature 1
-- [] Feature 2
-- [] Feature 3
-    - [] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
-
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* []()
-* []()
-* []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
+# Frontendmentor challenges solutions
+This is a solutions repo for [frontend mentor](https://www.frontendmentor.io/) challenges.
+
+<!-- All the projects are hosted on Vercel, check out this [link](https://zzl-frontendmentor-challenges.now.sh/) for live views. -->
+
+### List of the projects
+
+| Project Name and Live Link                                   | Repo Link                                                    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+<!-- | 1. [Single price grid component](https://zzl-frontendmentor-challenges.now.sh/single-price-grid-component-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/single-price-grid-component-master) |
+| 2. [Four cards feature section](https://zzl-frontendmentor-challenges.now.sh/four-card-feature-section-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/four-card-feature-section-master) |
+| 3. [Base apparel coming soon](https://zzl-frontendmentor-challenges.now.sh/base-apparel-coming-soon-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/base-apparel-coming-soon-master) |
+| 4. [Fylo data storage component](https://zzl-frontendmentor-challenges.now.sh/fylo-data-storage-component-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/fylo-data-storage-component-master) |
+| 5. [Intro component with signup form](https://zzl-frontendmentor-challenges.now.sh/intro-component-with-signup-form-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/intro-component-with-signup-form-master) |
+| 6. [Ping coming soon page](https://zzl-frontendmentor-challenges.now.sh/ping-coming-soon-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/ping-coming-soon-page-master) |
+| 7. [Coding Bootcamp testimonials slider](https://zzl-frontendmentor-challenges.now.sh/coding-bootcamp-testimonials-slider-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/coding-bootcamp-testimonials-slider-master) |
+| 8. [Huddle landing page](https://zzl-frontendmentor-challenges.now.sh/huddle-landing-page-with-alternating-feature-blocks-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/huddle-landing-page-with-alternating-feature-blocks-master) |
+| 9. [Huddle landing hero section](https://zzl-frontendmentor-challenges.now.sh/huddle-landing-page-with-single-introductory-section-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/huddle-landing-page-with-single-introductory-section-master) |
+| 10. [Fylo landing page](https://zzl-frontendmentor-challenges.now.sh/fylo-landing-page-with-two-column-layout-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/fylo-landing-page-with-two-column-layout-master) |
+| 11. [Social media dashboard with theme switcher](https://zzl-frontendmentor-challenges.now.sh/social-media-dashboard-with-theme-switcher-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/social-media-dashboard-with-theme-switcher-master) |
+| 12. [Insure Landing page](https://zzl-frontendmentor-challenges.now.sh/insure-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/insure-landing-page-master) |
+| 13. [Pricing component with toggle](https://zzl-frontendmentor-challenges.now.sh/pricing-component-with-toggle-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/pricing-component-with-toggle-master) |
+| 14. [Project tracking intro component](https://zzl-frontendmentor-challenges.now.sh/project-tracking-intro-component-master/index.html) | [repo link](https://zzl-frontendmentor-challenges.now.sh/project-tracking-intro-component-master/index.html) |
+| 15. [Clipboard landing page](https://zzl-frontendmentor-challenges.now.sh/clipboard-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/clipboard-landing-page-master) |
+| 16. [Fylo dark theme landing page](https://zzl-frontendmentor-challenges.now.sh/fylo-dark-theme-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/fylo-dark-theme-landing-page-master) |
+| 17. [Huddle landing page with curved sections](https://zzl-frontendmentor-challenges.now.sh/huddle-landing-page-with-curved-sections-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/huddle-landing-page-with-curved-sections-master) |
+| 18. [Premium Dine](https://zzl-frontendmentor-challenges.now.sh/premium-dine-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/premium-dine-master) |
+| 19. [Premium Scoot](https://zzl-frontendmentor-challenges.now.sh/scoot-multi-page-website-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/scoot-multi-page-website-master) |
+| 20. [Premium minimalist portfolio](https://zzl-frontendmentor-challenges.now.sh/premium-minimalist-portfolio-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/premium-minimalist-portfolio-master) |
+| 21. [Reactive job listings \| Svelte](https://zzl-frontendmentor-challenges.now.sh/static-job-listings-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/static-job-listings-master/static-job-listings-svelte) |
+| 22. [Easybank landing page](https://zzl-frontendmentor-challenges.now.sh/easybank-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/easybank-landing-page-master) |
+| 23. [Manage landing page](https://zzl-frontendmentor-challenges.now.sh/manage-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/manage-landing-page-master) |
+| 24. [URL shortening API landing page \| Svelte](https://zzl-frontendmentor-challenges.now.sh/url-shortening-api-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/url-shortening-api-master/url-shortening-svelte) |
+| 25. [Bookmark landing page \| Svelte](https://zzl-frontendmentor-challenges.now.sh/bookmark-landing-page-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/bookmark-landing-page-master/bookmark-svelte) |
+| 26. [MyTeam multi-page website \| Sapper](https://myteam-sapper.vercel.app/) | [repo link](https://github.com/zuolizhu/myteam-sapper-frontendmentor) |
+| 27. [Chat app css illustration](https://zzl-frontendmentor-challenges.now.sh/chat-app-css-illustration-master/) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/chat-app-css-illustration-master) |
+| 28. [Article preview component](https://zzl-frontendmentor-challenges.now.sh/article-preview-component-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/article-preview-component-master) |
+| 29. [Rock paper scissors game \| Svelte](https://zzl-frontendmentor-challenges.now.sh/rock-paper-scissors-game/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/rock-paper-scissors-game/rock-paper-scissors-svelte) |
+| 30. [REST Countries API with color theme switcher \| Sapper](https://rest-countries-api-sapper.vercel.app/) | [repo link](https://github.com/zuolizhu/rest-countries-api-sapper) |
+| 31. [Arch Studio multi-page website \| Sapper](https://arch-studio-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/arch_studio_frontendmentor) |
+| 32. [IP Address Tracker \| Svelte](https://ip-address-tracker-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/ip_address_tracker_frontendmentor) |
+| 33. [Photosnap multi-page website \| Sapper](https://photosnap-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/photosnap_frontendmentor) |
+| 34. [Social proof section](https://zzl-frontendmentor-challenges.now.sh/social-proof-section-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/social-proof-section-master) |
+| 35. [Room homepage](https://zzl-frontendmentor-challenges.now.sh/room-homepage-master/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/room-homepage-master) |
+| 36. [FAQ Accordion card \| MalinaJS](https://zzl-frontendmentor-challenges.now.sh/faq-accordion-card-main/index.html) | [repo link](https://github.com/zuolizhu/frontendmentor_challenges/tree/master/faq-accordion-card-malina) |
+| 37. [Clock app \| React](https://clock-app-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/clock-app-frontendmentor) |
+| 38. [Officelite coming soon site \| NextJS](https://officelite-coming-soon-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/officelite-coming-soon-frontendmentor) |
+| 39. [Draggable todo app \| React](https://todo-app-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/todo-app-frontendmentor) |
+| 40. [GitHub Jobs API \| React](https://github-jobs-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/github-jobs-frontendmentor) |
+| 41. [Profile card component \| React](https://profile-card-component-fm.vercel.app/) | [repo link](https://github.com/zuolizhu/profile-card-component-fm) |
+| 42. [Pod request access landing page \| React](https://pod-request-landing-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/pod-request-landing-frontendmentor) |
+| 43. [Testimonials grid section \| React](https://testimonials-grid-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/testimonials-grid-frontendmentor) |
+| 44. [Launch countdown timer \| React](https://countdown-timer-frontendmentor.vercel.app/) | [repo link](https://github.com/zuolizhu/countdown-timer-frontendmentor) | -->
+
+
+
+New repo coming soon 💪
