@@ -1,5 +1,3 @@
-const posts = []
-
 const images = [
     "https://images.unsplash.com/photo-1638726201854-4b42cb53d308?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
     'https://images.unsplash.com/photo-1638397861442-dedc9e1eb58d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
@@ -16,15 +14,18 @@ const images = [
     'https://dr.savee-cdn.com/things/6/1/64711b0e69492ef09b7fd0.jpg'
 ]
 
-let imageIndex = 0
+const posts = Array.from({length : 80}).map((_,i) => ({
+    id : i,
+    title : `Post ${i + 1}`,
+    image : images[i % images.length]
+}))
 
-for(let i = 0;i < 80; i++) {
-    let item = {
-        id: i,
-        title : `Post ${i}`,
-        image : images[imageIndex]
-    }
-    posts.push(item)
-    imageIndex ++
-    if(imageIndex > images.length - 1) imageIndex = 0
-}
+// const posts = []
+// for(let i = 0;i < 80; i++) {
+//     let item = {
+//         id: i,
+//         title : `Post ${i}`,
+//         image : images[i % images.length]
+//     }
+//     posts.push(item)
+// }
