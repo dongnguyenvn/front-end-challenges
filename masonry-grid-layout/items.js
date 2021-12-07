@@ -14,7 +14,9 @@ const images = [
     'https://dr.savee-cdn.com/things/6/1/64711b0e69492ef09b7fd0.jpg'
 ]
 
-const posts = Array.from({length : 80}).map((_,i) => ({
+const NUMBEROFPOST = 80
+
+const posts = Array.from({length : NUMBEROFPOST}).map((_,i) => ({
     id : i,
     title : `Post ${i + 1}`,
     image : images[i % images.length]
