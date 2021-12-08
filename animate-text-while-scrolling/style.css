@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-color: #222222;
+    color: antiquewhite;
+}
+::-webkit-scrollbar{
+    display: none;
+}
+.main-container{
+    height: 500vh;
+}
+.container{
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.text{
+    width: 100%;
+    overflow-x: hidden;
+}
+.ticker-reel{
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    width: 100%;
+    will-change: transform;
+}
+.reel-item{
+    font-weight: lighter;
+    font-family: 'Monument Extended', sans-serif;
+    font-size: 80px;
+    text-transform: uppercase;
+}
+.scroll-text{
+    font-family: 'Inter';
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: lighter;
+    position: fixed;
+    bottom: 50px;
+    left: 50px;
+}
