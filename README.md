@@ -1,5 +1,4 @@
-# Frontendmentor challenges solutions
-This is a solutions repo for [frontend mentor](https://www.frontendmentor.io/) challenges.
+# Frontend challenges solutions
 
 <!-- All the projects are hosted on Vercel, check out this [link](https://zzl-frontendmentor-challenges.now.sh/) for live views. -->
 
