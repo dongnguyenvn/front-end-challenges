@@ -9,6 +9,7 @@ This is a solutions repo for [frontend mentor](https://www.frontendmentor.io/) c
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 1. Masonry Grid Layout | [repo link](https://github.com/dongnguyenvn/front-end-challenges/tree/main/masonry-grid-layout) |
 | 2. Animate Text while Scrolling | [repo link](https://github.com/dongnguyenvn/front-end-challenges/tree/main/animate-text-while-scrolling) |
+| 3. Text Stroke Over Image | [repo link](https://github.com/dongnguyenvn/front-end-challenges/tree/main/text-stroke-over-image) |
 
 
 New repo coming soon 💪
